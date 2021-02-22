@@ -1,0 +1,2 @@
+Theme color: 4448D2
+Opacity 54%
